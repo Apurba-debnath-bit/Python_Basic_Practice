@@ -1,0 +1,3 @@
+create a virtual environment: virtualenv vnevname
+activate virtual environment: vnevname/Scripts/activate
+import requirements.txt file : pip install -r requirements.txt

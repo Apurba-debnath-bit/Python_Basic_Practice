@@ -1,0 +1,11 @@
+#BY default windows powershell doesn't give persmission to access : 
+
+#------------->>------to change virtualenv directory 
+#----To change it:
+#open wps(windows power shell as Admin):
+#type command:
+---------- set-executionpolicy remotesigned ---------
+then :
+press y (yes)
+
+------work done-------

@@ -1,0 +1,3 @@
+It opens the file to read-only mode.
+The file pointer exists at the beginning.
+The file is by default open in this mode if no access mode is passed.
