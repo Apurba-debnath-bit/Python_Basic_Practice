@@ -2,7 +2,7 @@ num = int(input("Enter the number of set member: "))
 
 parent = num + 2
 
-child = 0
+child = 0;
 
 for i in range(1,num):
     #print(i)
